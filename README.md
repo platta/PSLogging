@@ -1,4 +1,6 @@
-# PSLogging
+# [DEPRECATED] PSLogging
+### This project has been renamed and can now be found at https://github.com/platta/PSMultiLog
+
 PSLogging is a multi-target logging module to simplify and centralize logging in your code. At the beginning of your code, turn on the log targets you want to use, and from the on just call the `Write-Log` Cmdlet to simultaneously write to all active targets.
 
 ## Log targets
